@@ -1,7 +1,7 @@
 {
   "name": "gh-pages-react",
   "version": "0.1.0",
-  "homepage": "http://gh-pages.ketkashpur.com/",
+  "homepage": "https://ketkashpur.github.io/gh-pages-react/",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
